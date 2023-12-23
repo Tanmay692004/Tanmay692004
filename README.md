@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanmay</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmay692004&label=Profile%20views&color=0e75b6&style=flat" alt="tanmay692004" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmay692004&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="tanmay692004" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanmay692004" alt="tanmay692004" /></a> </p>
 
