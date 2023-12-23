@@ -21,7 +21,8 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanmay692004&show_icons=true&locale=en" alt="tanmay692004" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanmay692004&show_icons=true&locale=en&theme=dark" alt="tanmay692004" /></p>
+
 
 
 
