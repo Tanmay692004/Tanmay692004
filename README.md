@@ -23,6 +23,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanmay692004&show_icons=true&locale=en&theme=dark" alt="tanmay692004" /></p>
 
-[![An image of @tanmay692004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanmay692004)](https://holopin.io/@tanmay692004)
+
 
 
